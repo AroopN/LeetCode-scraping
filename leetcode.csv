@@ -1,9 +1,9 @@
 Link,UPVOTES,DOWNVOTES,DIFFICULTY
-https://leetcode.com/problems/two-sum,12918,461,
-https://leetcode.com/problems/add-two-numbers,6665,1729,
-https://leetcode.com/problems/longest-substring-without-repeating-characters,7252,427,
-https://leetcode.com/problems/median-of-two-sorted-arrays,5604,836,
-https://leetcode.com/problems/longest-palindromic-substring,5031,443,
+https://leetcode.com/problems/two-sum,12918,461,Medium
+https://leetcode.com/problems/add-two-numbers,6665,1729,Easy
+https://leetcode.com/problems/longest-substring-without-repeating-characters,7252,427,Medium
+https://leetcode.com/problems/median-of-two-sorted-arrays,5604,836,Medium
+https://leetcode.com/problems/longest-palindromic-substring,5031,443,Hard
 https://leetcode.com/problems/zigzag-conversion,1313,3920,
 https://leetcode.com/problems/reverse-integer,2713,4221,
 https://leetcode.com/problems/string-to-integer-atoi,1228,7501,
